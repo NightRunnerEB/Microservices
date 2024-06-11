@@ -213,5 +213,15 @@
     ```bash
     docker-compose up
     ```
-
+4. pgAdmin: http://localhost:8081 (email: admin@example.com, password: admin)
+5. Добавьте сервер OrderDB (Host name/address: orderdb ; port: 5432 ; user: postgres ; password: postgres). Аналогично, можно добавить сервер AuthDB при необходимости.
+6. Необходимо заполнить таблицу stations в OrderDB:
+    ```bash
+    INSERT INTO stations (id, station) VALUES 
+    (1, 'Station A'),
+    (2, 'Station B'),
+    (3, 'Station C'),
+    (4, 'Station D'),
+    (5, 'Station E');
+    ```
 Эта команда поднимет все необходимые сервисы, базы данных и микросервисы, и они будут доступны по соответствующим портам.
