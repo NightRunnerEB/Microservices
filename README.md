@@ -22,7 +22,7 @@
 
 #### Спецификация API:
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://api.postman.com/collections/26245681-a1455f55-3717-4bd3-806f-6d887a3194dd?access_key=PMAT-01J03W8SYZ8CG3R5KTS3AHAJ9Y)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/join-team?invite_code=21bc3d17a70100336942cfe37bca74c9&target_code=715729fe9faef29cf49fa02c49b33f7c)
 
 1. **Регистрация пользователя**
     - **URL**: `/api/register`
@@ -99,7 +99,7 @@
 
 #### Спецификация API:
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://api.postman.com/collections/26245681-462e16cd-43e9-402a-8ca4-1349c1d2ca3d?access_key=PMAT-01J03W9M0EWH7ZV2W9HPAHM7DW)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/join-team?invite_code=21bc3d17a70100336942cfe37bca74c9&target_code=715729fe9faef29cf49fa02c49b33f7c)
 
 1. **Создание заказа**
     - **URL**: `/api/orders`
